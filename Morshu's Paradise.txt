@@ -1,0 +1,26 @@
+REM Author: dan1qaz
+REM Description: Sets volume to 100% and plays "morshous paradice" 
+REM Version: 1.0
+DELAY 700
+GUI r
+DELAY 650
+STRING powershell Start-Process powershell -Verb runAs
+DELAY 650
+ENTER
+DELAY 1000
+LEFTARROW
+DELAY 1000
+ENTER 
+LEFTARROW
+DELAY 650
+STRING Set-Volume 100; Function Set-Volume { Param([Parameter(Mandatory=$true)][ValidateRange(0,100)][Int]$volume); $keyPresses = [Math]::Ceiling( $volume / 2 ); $obj = New-Object -ComObject WScript.Shell; 1..50 | ForEach-Object {  $obj.SendKeys( [char] 174 )  }; for( $i = 0; $i -lt $keyPresses; $i++ ) {$obj.SendKeys( [char] 175 )}; }
+DELAY 650
+ENTER
+DELAY 650
+STRING Set-Volume 100; Function Set-Volume { Param([Parameter(Mandatory=$true)][ValidateRange(0,100)][Int]$volume); $keyPresses = [Math]::Ceiling( $volume / 2 ); $obj = New-Object -ComObject WScript.Shell; 1..50 | ForEach-Object {  $obj.SendKeys( [char] 174 )  }; for( $i = 0; $i -lt $keyPresses; $i++ ) {$obj.SendKeys( [char] 175 )}; }
+DELAY 650
+ENTER
+DELAY 550
+STRING Start-Process -WindowStyle Hidden "https://www.youtube.com/watch?v=5bmXDcsuAsA&list=PLDd-ZpEwq4ysUh0e_TeOF2irp0oEy1_zY&index=2&ab_channel=JeffLindblom"
+DELAY 500
+ENTER
