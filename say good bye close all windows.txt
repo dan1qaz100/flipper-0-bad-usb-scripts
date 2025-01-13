@@ -1,0 +1,13 @@
+REM Author: dan1qaz
+REM Description: Sets volume to 100% and plays say good bye and powers down. REM Version: 1.0
+DELAY 700
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING "https://youtu.be/FrQD0Dau9Cc"
+DELAY 500
+ENTER
+DELAY 1000
+DELAY 5600
+WINDOWS d

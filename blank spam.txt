@@ -1,0 +1,2432 @@
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialogREM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+
+REM Open Run dialog
+GUI r
+DELAY 500
+REM Open the default web browser
+STRING https://www.youtube.com/watch?v=bOwsLtwa2Ts&ab_channel=Picturesofstufffor10hours
+ENTER
+REM Open Run dialog
+

@@ -1,0 +1,8 @@
+REM Title:LOCKS DEVICE
+REM Creator: dan1qaz :3
+REM lol 
+REM For: Win10 (will use default browser)
+GUI R 
+DELAY 100
+STRING Powershell.exe
+GUI L
